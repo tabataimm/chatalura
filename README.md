@@ -1,0 +1,1 @@
+Assistente de Remédios Inteligente: Um chat simples para idosos e cuidadores, que automatiza lembretes e registra a tomada de medicamentos no Google Calendar, trazendo tranquilidade e eficiência para o dia a dia.
